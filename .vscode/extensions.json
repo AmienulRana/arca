@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    // Tailwind CSS Intellisense
+    "heybourn.headwind",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost"
+  ]
+}
